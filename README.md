@@ -1,6 +1,4 @@
-# Exemple Canvas JPA Many To Many #
-
-En aquest projecte hi ha un exemple de Hibernate JPA Many To Many
+# Enunciat de les fites AMS2-MP06-UF02 #
 
 ### Compilació i funcionament ###
 
